@@ -1,0 +1,11 @@
+{
+    "name": "com.llcrowe.object-pool-system",
+    "version": "1.0.0",
+    "displayName": "Object Pool System",
+    "description": "Queue-based Component object pooling + pure C# class pooling system",
+    "unity": "6000.3",
+    "author": {
+        "name": "lLcrowe"
+    },
+    "dependencies": {}
+}
